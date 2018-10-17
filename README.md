@@ -4,6 +4,8 @@
 
 There is no quicker and more readily available way to share information and enter into commerce than the internet, and there's no faster way than to build a website and web server.
 
+In this course you will both master industry-standard web development skills and be able to add your own custom website to your digital portfolio, and you will lay down the fundamentals of how the internet and websites and web servers work paving the way for you to learn more advanced web development practices such as mobile development with iOS and data science.
+
 In this course the goal will be to build the **Front End** or **User Interface** of a website, and then gain familiarity with the two major **Patterns** or **Architectures** that make up the web and websites: Resourceful Routing, and the Model-View-Controller Architecture. These patterns are language independent and are repeated across nearly any server you might work on or build.
 
 Although you can develop webservers in many languages, we will focus on **JavaScript** and **NodeJS**. The web is becoming ever more JavaScripty. JavaScript has now risen to being, by many metrics, the fastest growing and widest used language on the web. Now with the invention of NodeJS, you can write your client and your server in JS creating interesting synergies and benefits across a stack and within a development team. Also with the emergence of tools like React Native, Ionic, Johnny-Five, and many others, JavaScript is becoming a versatile tool across many platforms even outside of the desktop and mobile web browsers.
