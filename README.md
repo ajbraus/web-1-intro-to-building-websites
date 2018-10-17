@@ -1,4 +1,4 @@
-# Introduction to Building Websites with HTML/CSS, Resourceful Routing, and Model-View-Controller
+## Intro to Building Websites with HTML/CSS, Resourceful Routing, and an MVC Architecture
 
 ## Course Description
 
